@@ -286,9 +286,5 @@
 书籍全部来源于网络其他人的整理，我这里只是收集整理了他们的链接，如有侵权，马上联系我，我立马删除对应链接。我的邮箱：1326194964@qq.com
 
 
-
-![扫码关注我](https://github.com/iamshuaidi/CS-Book/blob/master/%E5%B8%85%E5%9C%B0%E7%8E%A9%E7%BC%96%E7%A8%8B%E5%B0%81%E9%9D%A2.png)
-
-
-
+![我的公众号ID：coder2025，搜索这个ID即可找到或直接扫描关注](https://github.com/cooffeeli/recommend_learning/blob/master/wechat_logo.png)
 
