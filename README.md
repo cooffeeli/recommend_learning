@@ -5,7 +5,7 @@
 
 > 宣传一波我的微信公众号：我的公众号专注于写**数据结构+算法**，**计算机基础**（如计算机网络+操作系统+Linux+MySQL）等文章，欢迎广大用户扫一扫关注一波，一定让你有所收获。
 
-![我的公众号ID：coder2025，搜索这个ID即可找到或直接扫描关注](https://mp.weixin.qq.com/misc/getqrcode?fakeid=3524187371&token=2139364222&action=download&style=1&pixsize=224)
+![我的公众号ID：coder2025，搜索这个ID即可找到或直接扫描关注](https://github.com/cooffeeli/recommend_learning/blob/master/wechat_logo.png)
 
 > **重要说明**：**如果目录无法跳转的话，直接拉下去就可以了**，这些书籍都是在同一个页面的，我只是方便大家找到对应的，弄了一个**页内目录**，不过有部分读者反馈他跳转不了（手机是绝对跳转不了的了）。
 
